@@ -16,3 +16,4 @@ else{
 msqli_close($baglanti);
 
 ?>
+
